@@ -1,0 +1,4 @@
+p, alice, /ds1/*, GET
+p, alice, /ds1/res1, POST
+p, bob, /ds2/res2, GET
+p, alice, /, GET
